@@ -1,0 +1,14 @@
+
+
+
+h3 {
+    text-align: center;
+}
+.icons {
+    font-size: 3em;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    border: solid 1px black;
+}
